@@ -35,6 +35,10 @@
         .container .filtros .btn-filtrar {
             width: 100%;
         }
+
+        .container .cartas .carta {
+            max-width: 400px;
+        }
     }
 
 }
